@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+    <string name="ekd_delivery">EKD Delivery</string>
+    <string name="telephone_233504256737">Telephone: +233504256737</string>
+    <string name="email_dkuivi264_gmail_com">Email: dkuivi264@gmail.com</string>
+    <string name="ekd_delivery_we_help_ship_items_for_people_from_the_usa_to_ghana_and_we_do_door_to_door_delivery_service">EKD Delivery.we help ship items for people from the usa to ghana , and we do door to door delivery service</string>
+    <string name="www_ekddelivery_org">www.ekddelivery.org</string>
+    <string name="mon_sat_8_00am_5_00pm">MON - SAT :: 8:00AM - 5:00PM</string>
+    <string name="companyimage">COMPANYIMAGE</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="p_o_box_220_tm">P.O.BOX 220 TM</string>
+</resources>
